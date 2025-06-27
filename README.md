@@ -9,7 +9,6 @@ Welcome to the official Training and Placement Portal for the National Institute
 - [About the Project](#about-the-project)
 - [Key Features](#key-features)
 - [Tech Stack](#tech-stack)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
@@ -53,12 +52,6 @@ The portal is tailored for NIT Kurukshetra, reflecting its branding and placemen
 - **Cloud Storage:** Cloudinary (for file uploads)
 - **Authentication:** JWT
 - **State Management:** Redux Toolkit
-
----
-
-## Screenshots
-
-> _Add screenshots of your portal here for better presentation!_
 
 ---
 

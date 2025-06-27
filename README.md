@@ -3,8 +3,8 @@
 Welcome to the official Training and Placement Portal for the National Institute of Technology, Kurukshetra (NITKKR). This full-stack web application streamlines the campus placement process for students, recruiters, and administrators, providing a seamless and modern experience for all users.
 
 ---
-## Demo
-[[https://user-images.githubusercontent.com/56497318/127523960-86589587-376e-41a4-867d-805c6c7cf300.mp4](https://github.com/user-attachments/assets/3314e18e-e5ff-4e65-8acd-94a2ae145d27)](https://github.com/user-attachments/assets/136be815-a3d0-4992-a699-2cc138c362de)
+##Demo
+https://github.com/user-attachments/assets/136be815-a3d0-4992-a699-2cc138c362de
 
 ## Table of Contents
 
